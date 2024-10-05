@@ -1,1 +1,1 @@
-## Pytorch implementation of classificaiton models.
+## PyTorch Implementation of Classification Models.
