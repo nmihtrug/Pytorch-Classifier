@@ -135,5 +135,5 @@ def resnet(version='ResNet18', num_classes=1000):
 
 if __name__ == "__main__":
     # Example usage
-    model = resnet('ResNet152', num_classes=1000)
+    model = resnet('ResNet18', num_classes=1000)
     summary(model, (3, 224, 224), device='cpu')
